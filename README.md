@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenpower
 - 👀 I’m interested in education
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Svelte
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
